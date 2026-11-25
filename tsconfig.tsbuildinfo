@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/services/audiorecorder.ts","./src/services/docxexport.ts","./src/services/geminidecision.ts"],"version":"5.8.3"}
